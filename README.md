@@ -43,7 +43,7 @@ Plugin settings in CPI Helper:
 
 ## Install
 
-The plugin is proposed for CPI Helper itself: [pull request](PR_LINK). Once merged, switch it on under **Manage plugins** in the CPI Helper toolbar.
+The plugin is proposed for CPI Helper itself: [pull request](https://github.com/dbeck121/CPI-Helper-Chrome-Extension/pull/365). Once merged, switch it on under **Manage plugins** in the CPI Helper toolbar.
 
 Until then, in a local clone of CPI Helper:
 
